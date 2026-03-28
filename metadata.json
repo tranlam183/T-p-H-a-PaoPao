@@ -1,0 +1,7 @@
+{
+  "name": "Tạp Hóa PaoPao",
+  "description": "Cửa hàng bán lẻ đồ gia dụng, điện tử nhỏ và hàng tiêu dùng tiện lợi.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
